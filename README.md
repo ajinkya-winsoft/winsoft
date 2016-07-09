@@ -1,2 +1,1 @@
-# winsoft
-Winsoft Technologies (I) Pvt. Ltd.
+# Winsoft Technologies (I) Pvt. Ltd.
